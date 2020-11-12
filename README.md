@@ -7,7 +7,7 @@
 I am passionate about technology and programming.
 I always try to focus on javascript and look for a full stack formation. :computer:
 
-🎓 &nbsp; I went to pharmacy school for 5 periods at ** UFRN **, however I found myself passionate about programming and decided to change my life and try to pursue this career.
+🎓 &nbsp; I went to pharmacy school for 5 periods at **UFRN**, however I found myself passionate about programming and decided to change my life and try to pursue this career.
  <br/> :purple_heart: &nbsp; Seeking to improve me more and more on the backend !
  <br/> :blush: &nbsp; I am focused on project developments with React and always looking to learn more.
  <br/> :computer: &nbsp; My stack: ReactJS, Nodejs and Typescript
