@@ -3,15 +3,15 @@
 
 # Daniel Otaviano
 
-## Olá pessoal 👋
-Sou apaixonado por tecnologia e programação.
-Procuro sempre focar em javascript e busco uma formação fullstack. :computer:
+## Hello everyone 👋
+I am passionate about technology and programming.
+I always try to focus on javascript and look for a full stack formation. :computer:
 
-🎓 &nbsp; Fiz faculdade de farmácia por 5 períodos na **UFRN**, entretanto me encontrei apaixonado na programação e resolvi mudar minha vida e procurar seguir essa carreira.
- <br/> :purple_heart: &nbsp; Buscando me aprimorar cada vez mais no back-end !
- <br/> :blush: &nbsp; Estou focando em desenvolvimentos de projetos com React e buscando sempre aprender mais.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL, seriados no Netflix e sempre aprender mais !
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-danielotaviano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-otaviano-77b9a61b0/)](https://www.linkedin.com/in/daniel-otaviano-77b9a61b0/) 
+🎓 &nbsp; I went to pharmacy school for 5 periods at ** UFRN **, however I found myself passionate about programming and decided to change my life and try to pursue this career.
+ <br/> :purple_heart: &nbsp; Seeking to improve me more and more on the backend !
+ <br/> :blush: &nbsp; I am focused on project developments with React and always looking to learn more.
+ <br/> :computer: &nbsp; My stack: ReactJS, Nodejs and Typescript
+ <br/> 💬  &nbsp; Sobre mim: I like technologies, CS: GO, LoL games, Netflix series and always learn more !
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-danielotaviano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-otaviano-77b9a61b0/)](https://www.linkedin.com/in/daniel-otaviano-77b9a61b0/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-danielpontes@ufrn.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielpontes@ufrn.edu.br)](mailto:danielpontes@ufrn.edu.br)
