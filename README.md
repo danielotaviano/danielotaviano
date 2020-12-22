@@ -11,7 +11,7 @@ I always try to focus on javascript and look for a full stack formation. :comput
  <br/> :purple_heart: &nbsp; Seeking to improve me more and more on the backend !
  <br/> :blush: &nbsp; I am focused on project developments with React and always looking to learn more.
  <br/> :computer: &nbsp; My stack: ReactJS, Nodejs and Typescript
- <br/> 💬  &nbsp; Sobre mim: I like technologies, CS: GO, LoL games, Netflix series and always learn more !
+ <br/> 💬  &nbsp; About me: I like technologies, CS: GO, LoL games, Netflix series and always learn more !
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-danielotaviano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-otaviano-77b9a61b0/)](https://www.linkedin.com/in/daniel-otaviano-77b9a61b0/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-danielpontes@ufrn.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielpontes@ufrn.edu.br)](mailto:danielpontes@ufrn.edu.br)
