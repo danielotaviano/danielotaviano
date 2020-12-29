@@ -15,3 +15,5 @@ I always try to focus on javascript and look for a full stack formation. :comput
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-danielotaviano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-otaviano-77b9a61b0/)](https://www.linkedin.com/in/daniel-otaviano-77b9a61b0/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-danielpontes@ufrn.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielpontes@ufrn.edu.br)](mailto:danielpontes@ufrn.edu.br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielotaviano&layout=compact&bg_color=FFFFFF&title_color=151515&text_color=151515)
